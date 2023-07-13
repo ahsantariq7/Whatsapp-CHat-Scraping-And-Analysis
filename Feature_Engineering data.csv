@@ -1,0 +1,310 @@
+,Chatting,link_count,word_count,sentence_length,has_numeric,has_emoticon,language_detection,language_py3_detection,py3_confidence,stopword_count,repeated_chars_count,sentiment_score,pos_tag_counts,flesch_reading_ease,gunning_fog_index
+0,Paper kiddan da hua,0,4,19,False,False,id,eu,-50.790157,0,1,0,"{'NNP': 1, 'VBZ': 1, 'NN': 2}",75.88,1.6
+1,Alhmdullilah,0,1,12,False,False,tr,et,-17.154526,0,1,0,{'NN': 1},-47.99,40.4
+2,Acha,0,1,4,False,False,en,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+3,Chalo ma shaa Allah,0,4,19,False,False,so,fi,-30.708176,1,2,0,"{'NNP': 2, 'NN': 2}",75.88,1.6
+4,Paper kiddan hua,0,3,16,False,False,id,en,-44.714024,0,1,0,"{'NNP': 1, 'VBZ': 1, 'NN': 1}",59.97,1.2
+5,Acha,0,1,4,False,False,en,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+6,Chalo ma shaa Allah,0,4,19,False,False,so,fi,-30.708176,1,2,0,"{'NNP': 2, 'NN': 2}",75.88,1.6
+7,Kinnei reh gai?,0,3,15,False,False,cy,de,-16.268574,0,1,0,"{'NNP': 1, 'NN': 2, '.': 1}",93.81,1.2
+8,1,0,1,1,True,False,Unknown,en,9.06184,0,0,0,{'CD': 1},121.22,0.4
+9,Matlab kal last,0,3,15,False,False,et,en,-8.001188,0,0,0,"{'NNP': 1, 'VBD': 1, 'JJ': 1}",93.81,1.2
+10,Nii Monday nu,0,3,13,False,False,tl,ro,-7.6031923,0,1,0,"{'NNP': 2, 'NN': 1}",93.81,1.2
+11,2 chuttian mazei wesei tu te kehendi huni ho jaaanda kal,0,11,56,True,False,sw,ms,-145.33342,0,3,0,"{'CD': 1, 'JJ': 1, 'NN': 9}",68.77,8.04
+12,"G
+Ghr Jana phr",0,4,14,False,False,de,es,0.28125763,0,0,0,"{'NNP': 3, 'NN': 1}",118.18,1.6
+13,Matlab Monday nu,0,3,16,False,False,tl,et,0.35557985,0,0,0,"{'NNP': 2, 'NN': 1}",59.97,1.2
+14,G,0,1,1,False,False,de,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+15,Oka,0,1,3,False,False,sw,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+16,Paper kiddan d hua,0,4,18,False,False,id,da,-44.00953,1,1,0,"{'NNP': 2, 'NN': 2}",75.88,1.6
+17,Alhmdullilah acha,0,2,17,False,False,cy,id,-29.760527,0,1,0,"{'NNP': 1, 'NN': 1}",35.61,20.8
+18,Chalo ma shaa Allah,0,4,19,False,False,so,fi,-30.708176,1,2,0,"{'NNP': 2, 'NN': 2}",75.88,1.6
+19,Mubarak howei,0,2,13,False,False,so,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+20,Mid Paper end,0,3,13,False,False,nl,no,-13.666376,0,0,0,"{'NNP': 2, 'NN': 1}",93.81,1.2
+21,G,0,1,1,False,False,de,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+22,hun kaaar jaaa rhi,0,4,18,False,False,so,fi,-26.57801,0,4,0,{'NN': 4},118.18,1.6
+23,"Nhi 
+Classes",0,2,12,False,False,et,vi,-7.7772684,0,1,0,"{'NN': 1, 'NNS': 1}",77.91,0.8
+24,Acha kal anti das rhei si aaaa jaaana,0,8,37,False,False,so,sw,-121.34644,0,5,-0.3182,"{'NNP': 1, 'VBZ': 1, 'JJ': 2, 'NNS': 1, 'VBP': 1, 'NN': 2}",105.66,3.2
+25,Yaaani zikr hoya te gal kr rei si,0,8,33,False,False,so,sw,-93.06764,0,2,0,"{'NNP': 2, 'NN': 5, 'JJ': 1}",114.12,3.2
+26,Nii..HOD ne off nhi kita c,0,6,26,False,False,vi,en,-22.314621,1,3,0,"{'NNP': 3, 'VBD': 1, 'RP': 1, 'JJ': 1, 'NNS': 1, 'VBP': 1}",90.77,2.4
+27,Onei amb lenei si paper le ke,0,7,29,False,False,et,it,-65.12273,0,0,0,"{'NNP': 1, 'NN': 5, 'JJ': 1}",106.67,2.8
+28,"Pta nii
+Khndi me personally attendance short kr deni",0,9,52,False,False,it,en,-123.98917,1,3,0,"{'NNP': 2, 'NN': 3, 'PRP': 1, 'RB': 1, 'VB': 1, 'JJ': 1}",53.88,12.49
+29,Chalo mazei fr,0,3,14,False,False,it,de,-21.267433,0,0,0,"{'NNP': 1, 'NN': 2}",93.81,1.2
+30,Ni,0,1,2,False,False,vi,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+31,Kyun kia hua,0,3,12,False,False,sw,eu,-6.892278,0,0,-0.6369,"{'NNP': 1, 'VBD': 1, 'NN': 1}",119.19,1.2
+32,Kuch nhi,0,2,8,False,False,vi,de,-4.606304,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+33,Matlab fr ni kyun,0,4,17,False,False,tr,et,0.35557985,0,0,0,"{'NNP': 1, 'NN': 3}",92.8,1.6
+34,Yani mze nii,0,3,12,False,False,sw,en,-0.9997139,0,1,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+35,Hmmm menu idea how ria kinna mushkil kisei ho kaaar rehna te tu te fr hostel aaaan,0,17,82,False,False,et,af,-160.36655,1,8,0,"{'NNP': 1, 'NN': 13, 'WRB': 1, 'JJ': 2}",79.6,6.8
+36,Tu Kise hor kr Rh ria?,0,6,22,False,False,sq,en,-8.41946,0,0,0,"{'NNP': 3, 'NN': 3, '.': 1}",116.15,2.4
+37,From more than 1 month,0,5,22,True,False,en,en,-24.811893,3,0,0,"{'IN': 2, 'JJR': 1, 'CD': 1, 'NN': 1}",117.16,2
+38,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+39,Hmmm,0,1,4,False,False,da,en,9.06184,0,2,0,{'NN': 1},36.62,0.4
+40,Taya g,0,2,6,False,False,sw,id,-5.513525,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+41,Menu roz 3 tu 4 km chalan di aaaadat aaa,0,10,40,True,False,id,ms,-126.23957,0,5,0,"{'NNP': 1, 'VBZ': 2, 'CD': 2, 'NN': 4, 'JJ': 1}",95.17,4
+42,Lekin ithei ghar bound ho ke reh gia,0,8,36,False,False,en,en,-71.96489,0,0,0,"{'NNP': 1, 'NN': 6, 'IN': 1}",114.12,3.2
+43,Ki mtlb,0,2,7,False,False,sw,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+44,Yaaani bhai farukh kil aaaaya hua,0,6,33,False,False,so,tl,-28.452848,0,5,0,"{'NNP': 1, 'NN': 5}",116.15,2.4
+45,Sae sae,0,2,7,False,False,tl,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+46,Aanti log??,0,2,11,False,False,tl,it,1.7285585,0,1,0,"{'NNP': 1, 'NN': 1, '.': 2}",77.91,0.8
+47,O ghar,0,2,6,False,False,cy,en,-0.17500687,1,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+48,"Saeee
+Sundas no rkh Lena c",0,6,26,False,False,pt,pt,-52.696106,1,2,-0.296,"{'NNP': 3, 'DT': 1, 'NN': 2}",99.23,2.4
+49,O wi ghar,0,3,9,False,False,cy,en,-0.17500687,1,0,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+50,Rkh Lena c ithe,0,4,15,False,False,en,en,-23.374737,0,0,0,"{'NNP': 2, 'VBZ': 1, 'NN': 1}",118.18,1.6
+51,Nai menu akelei kuch hunda ni kadei lekin pata nai,0,10,50,False,False,id,nn,-54.25918,0,0,0,"{'NNP': 1, 'NN': 7, 'JJ': 1, 'FW': 1}",95.17,4
+52,O kudh nai rehendi ke tu nai,0,7,28,False,False,et,eu,-49.587563,1,0,0,"{'NNP': 1, 'VBD': 1, 'JJ': 1, 'NN': 4}",89.75,8.51
+53,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+54,Meno v kaafi arsa ho gia mile hoye oono,0,9,39,False,False,so,sw,-52.879326,0,2,0,"{'NNP': 1, 'NN': 8}",104.64,3.6
+55,Ba g hania aaaai si judun buhat zor laaaya ke aaa ja naaal nai aaai ami me baaad wich kia ke chal jaaandi kehndei ba g Hamna nai gi,0,29,131,False,False,so,sw,-356.00458,1,15,-0.6369,"{'NNP': 2, 'NN': 19, 'IN': 2, 'JJ': 3, 'PRP': 1, 'VBP': 1, 'FW': 1}",84.34,11.6
+56,Fr jidun aaaai mere naaal ami te sundas you wi nai rai anti ne buhat zor laaaya ke tu nai,0,20,89,False,False,id,ms,-256.0412,1,7,-0.3182,"{'NNP': 1, 'NN': 12, 'JJ': 3, 'RB': 1, 'PRP': 1, 'VBP': 1, 'IN': 1}",93.48,8
+57,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+58,Haaaye sdkeeee java,0,3,19,False,False,et,en,-18.216133,0,5,0,"{'NNP': 1, 'NN': 2}",59.97,1.2
+59,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+60,Bs hun O ghar tu hiatel mein ithei,0,8,34,False,False,cy,ga,-87.349365,1,0,0,"{'NNP': 2, 'NN': 6}",88.74,8.2
+61,Chl zindagi rhi te mila ge,0,6,26,False,False,it,eu,-52.81311,0,0,0,"{'NNP': 2, 'NN': 4}",90.77,2.4
+62,Hmmm in shaa Allah sundas nu kia,0,7,32,False,False,et,ms,-95.896065,1,4,-0.6369,"{'NNP': 2, 'IN': 1, 'JJ': 1, 'NN': 3}",81.29,2.8
+63,Kii,0,1,3,False,False,sw,en,9.06184,0,1,0,{'NNP': 1},121.22,0.4
+64,Yaaaani sundas nu kia ke mila ge,0,7,32,False,False,et,eo,-76.115326,0,3,-0.6369,"{'NNP': 1, 'VBD': 2, 'JJ': 1, 'NN': 2, 'CD': 1}",89.75,2.8
+65,G Inshaa Allah,0,3,14,False,False,so,fi,-14.88467,0,2,0,{'NNP': 3},59.97,1.2
+66,In shaa Allah,0,3,13,False,False,so,fi,-14.88467,1,2,0,"{'IN': 1, 'NN': 1, 'NNP': 1}",93.81,1.2
+67,G,0,1,1,False,False,de,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+68,Aik sheir pejdan,0,3,16,False,False,sq,en,-30.892334,0,0,0,"{'NNP': 1, 'NN': 2}",59.97,14.53
+69,Download ho ria,0,3,15,False,False,en,sk,-8.80968,0,0,0,"{'NNP': 1, 'NN': 2}",93.81,1.2
+70,Aaaye,0,1,5,False,False,so,en,9.06184,0,1,0,{'NN': 1},121.22,0.4
+71,Mazei da wa,0,3,11,False,False,sw,de,-49.952526,0,0,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+72,Bht,0,1,3,False,False,sq,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+73,Hor tu suna,0,3,11,False,False,id,en,-14.429674,0,0,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+74,Aaj mera gussei da mood nai,0,6,27,False,False,et,it,-35.878887,0,2,0,"{'NNP': 1, 'NN': 5}",99.23,2.4
+75,Kush ni sunan no,0,4,16,False,False,tl,id,-20.867023,1,0,-0.296,"{'NNP': 1, 'CC': 1, 'VBZ': 1, 'DT': 1}",118.18,1.6
+76,Lg v ria,0,3,8,False,False,sk,sl,-8.368329,0,0,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+77,Almost kinni deir social media band rakhia huna mein,0,9,52,False,False,id,cy,-151.06349,0,1,0,"{'RB': 1, 'VB': 1, 'JJ': 3, 'NNS': 1, 'VBP': 1, 'NN': 2}",62.34,3.6
+78,"Maloom nii
+Lkn me interrupt nii krna chah rhi",0,9,45,False,False,et,id,-63.460983,1,4,-0.34,"{'NNP': 2, 'NN': 4, 'PRP': 1, 'JJ': 2}",79.26,8.04
+79,Matlab,0,1,6,False,False,tl,en,9.06184,0,0,0,{'NN': 1},36.62,0.4
+80,Oodn aalia glla tu bd meno lgia c,0,8,33,False,False,it,it,-69.0844,0,2,0,"{'NNP': 1, 'VBZ': 1, 'NN': 6}",114.12,3.2
+81,Ki,0,1,2,False,False,sw,en,9.06184,0,0,0,{'NNP': 1},121.22,0.4
+82,"Kush nhi 
+Hor ki ho ria",0,6,23,False,False,sw,xh,-24.432713,0,0,0,"{'NNP': 2, 'CC': 1, 'VBP': 1, 'NN': 2}",116.15,2.4
+83,Nai das mood theekh aa,0,5,22,False,False,so,en,-76.08661,0,3,0,"{'NNP': 1, 'VBD': 1, 'NN': 3}",117.16,2
+84,Ki ho ria?),0,3,11,False,False,sw,sk,-8.80968,0,0,0,"{'NNP': 1, 'NN': 2, '.': 1, ')': 1}",119.19,1.2
+85,Bs samjh lei yaaad aaai tw mood theeekh si kr lia msg,0,12,53,False,False,so,en,-109.18967,0,7,0,"{'NNP': 1, 'NN': 10, 'VBD': 1}",110.06,4.8
+86,"Sae ho gia
+Hor ctn da mosm kida",0,8,31,False,False,pt,eu,-20.19574,0,0,0,"{'NNP': 2, 'NN': 6}",105.66,3.2
+87,Garmi,0,1,5,False,False,es,en,9.06184,0,0,0,{'NN': 1},36.62,0.4
+88,Ithe v bht aa,0,4,13,False,False,en,en,-20.309837,0,1,0,"{'NNP': 1, 'NN': 3}",118.18,1.6
+89,Wesei mein ona si fss,0,5,21,False,False,de,nn,-39.90506,0,1,0,"{'NNP': 1, 'NN': 2, 'VBZ': 1, 'JJ': 1}",100.24,2
+90,Fsd,0,1,3,False,False,de,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+91,Fr mein kya iddan hi koi issue na ban jaawei,0,10,44,False,False,id,id,-106.896126,0,3,-0.5574,"{'NNP': 1, 'NN': 4, 'VBD': 1, 'JJ': 2, 'NNS': 1, 'RB': 1}",95.17,4
+92,Te aa jaanda,0,3,12,False,False,et,et,-14.541042,0,2,0,"{'NNP': 1, 'NN': 2}",93.81,1.2
+93,Issue q kes cheez da,0,5,20,False,False,fr,fr,-43.98438,0,2,0,"{'NNP': 1, 'VBZ': 1, 'NNS': 1, 'NN': 2}",100.24,2
+94,Nai,0,1,3,False,False,vi,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+95,Q,0,1,1,False,False,vi,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+96,Yaaani aaaya te tere kol aaaya te mein aeis lai ondan aaaya te dill krna milan da te iddan hi koi issue howei aeis lai nai onda,0,27,127,False,False,id,af,-357.02048,0,11,0,"{'NNP': 1, 'NN': 18, 'RB': 1, 'VBZ': 2, 'JJ': 3, 'VB': 1, 'FW': 1}",77.91,10.8
+97,"Me bahir nhi jandi...Hostel ch miln di ijazat nhi 
+So",0,10,53,False,False,id,id,-102.63917,2,2,0,"{'NNP': 2, 'NN': 6, ':': 1, 'VBP': 1, 'NNS': 1, 'RB': 1}",100.24,2
+98,Nai issue nai mein college aaa jawan ga,0,8,39,False,False,nl,af,-84.48717,0,4,0,"{'NNP': 1, 'NN': 5, 'RB': 1, 'JJ': 1}",88.74,3.2
+99,Dill hua te,0,3,11,False,False,id,en,-12.907101,0,1,0,"{'NNP': 1, 'VBZ': 1, 'NN': 1}",119.19,1.2
+100,Ki???,0,1,5,False,False,sw,en,9.06184,0,2,0,"{'NNP': 1, '.': 3}",121.22,0.4
+101,Lekin ona nai,0,3,13,False,False,fi,es,0.055351257,0,0,0,"{'NNP': 1, 'PRP': 1, 'VBP': 1}",119.19,1.2
+102,Chl dekh le jidda sae lgge,0,6,26,False,False,so,fr,-50.434227,0,2,0,"{'NNP': 1, 'NN': 5}",99.23,2.4
+103,Nai sai ko matlab,0,4,17,False,False,lt,en,0.42638397,0,0,0,"{'NNP': 1, 'NN': 3}",92.8,1.6
+104,Aa ki likhia aa bol k D's de,0,8,28,False,False,so,en,-78.27338,0,1,0,"{'NNP': 3, 'VBD': 1, 'JJ': 1, 'NN': 3, 'POS': 1}",114.12,3.2
+105,Pej,0,1,3,False,False,id,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+106,Me teno kh rhi aa,0,5,17,False,False,nl,xh,-31.175022,1,1,0,"{'NNP': 1, 'NN': 4}",117.16,2
+107,Haan haan pej dei,0,4,17,False,False,nl,ms,-71.74234,0,2,0,"{'NNP': 1, 'NN': 3}",118.18,1.6
+108,Computer related aa kuch?,0,4,25,False,False,en,en,-25.657463,0,1,0,"{'NNP': 1, 'VBD': 1, 'JJ': 1, 'NN': 1, '.': 1}",33.58,21.6
+109,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+110,Me kh rhi aaaaaaaa ki likhiaaaaa aaaaaa,0,7,39,False,False,so,qu,-58.640717,1,16,0,"{'NNP': 1, 'VBZ': 1, 'JJ': 1, 'NN': 4}",106.67,2.8
+111,Nai sai ki matlab,0,4,17,False,False,id,en,0.42638397,0,0,0,"{'NNP': 1, 'NN': 3}",92.8,1.6
+112,Bol k ds de meno idea hi nhi smjh aa ria,0,11,40,False,False,et,it,-127.78302,0,1,0,"{'NNP': 1, 'VBD': 1, 'FW': 3, 'NN': 5, 'JJ': 1}",111.07,4.4
+113,Hand free hei,0,3,13,False,False,en,en,-12.724445,0,1,0.7579,"{'NNP': 1, 'JJ': 1, 'NN': 1}",119.19,1.2
+114,Mere kol??,0,2,10,False,False,no,en,9.06184,0,1,0,"{'NNP': 1, 'VB': 1, '.': 2}",120.21,0.8
+115,Han g roommate laagei te nai,0,6,28,False,False,nl,nl,-35.357548,0,3,0,"{'NNP': 1, 'NN': 5}",99.23,2.4
+116,Hn lkn handfree Hy,0,4,18,False,False,af,en,-12.319679,0,1,0,"{'NNP': 2, 'VBD': 1, 'JJ': 1}",92.8,1.6
+117,Oka oka,0,2,7,False,False,sw,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+118,Gg,0,1,2,False,False,de,en,9.06184,0,0,0.296,{'NN': 1},121.22,0.4
+119,Hor,0,1,3,False,False,nl,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+120,Kal lecture hei?,0,3,16,False,False,ro,fr,0.30207205,0,0,0,"{'NNP': 1, 'NN': 2, '.': 1}",93.81,1.2
+121,"Of course
+Wrna ghr na hondi",0,6,27,False,False,en,sv,1.2192378,1,0,0,"{'IN': 1, 'NN': 4, 'NNP': 1}",90.77,2.4
+122,Acha Mubarak howei ma shaa Allah 4/4,0,7,36,True,False,so,sw,-48.87162,1,2,0,"{'NNP': 3, 'NN': 2, 'VBD': 1, 'CD': 1}",106.67,2.8
+123,Alhmdullilah,0,1,12,False,False,tr,et,-17.154526,0,1,0,{'NN': 1},-47.99,40.4
+124,"Allah Tala da lkh lkh shukr 
+I wasn't expecting lkn bs bht Khushi hoi v",0,15,71,False,False,id,ms,-93.462715,2,1,0,"{'NNP': 3, 'NN': 8, 'PRP': 1, 'VBD': 1, 'RB': 1, 'VBG': 1, 'JJ': 1}",81.63,8.67
+125,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+126,"Class ch c me nhi gpa check kiti c meno krni nii oondi c 
+Mam ne dsia k 8 toppers aa fer jido Mera Naam Lia te Bs",0,28,113,True,False,it,sw,-228.8422,1,6,0,"{'NN': 10, 'VB': 1, 'PRP': 1, 'JJ': 5, 'VBD': 2, 'NNP': 5, 'CD': 1, 'NNS': 1, 'VBP': 2}",85.36,11.2
+127,Hun aaa gai ya nai?,0,5,19,False,False,id,sw,-42.664837,0,2,0,"{'NNP': 1, 'NN': 4, '.': 1}",117.16,2
+128,Kiiii,0,1,5,False,False,sw,en,9.06184,0,3,0,{'NNP': 1},-47.99,40.4
+129,Aaaa gaeee,0,2,10,False,False,so,fi,1.1467118,0,4,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+130,Good hogia,0,2,10,False,False,cy,en,9.06184,0,1,0.4404,"{'JJ': 1, 'NN': 1}",120.21,0.8
+131,Mwin edei uttei project kitta kawei te code bna da bs input dain kudh calculate kr dai gi,0,18,89,False,False,it,nn,-152.84265,0,2,0,"{'NNP': 1, 'NN': 13, 'VBZ': 1, 'JJ': 2, 'VBP': 1}",78.59,9.42
+132,"Waaaaah 
+Allah Tala Kambyab krn",0,5,31,False,False,so,ms,-23.434292,0,5,0,"{'NNP': 4, 'NN': 1}",66.4,2
+133,Ameen,0,1,5,False,False,nl,en,2.089343,0,1,0,{'NN': 1},121.22,0.4
+134,Aaa buhat basic cheez aaa,0,5,25,False,False,so,tl,-92.73364,0,4,0,"{'NNP': 1, 'WP': 1, 'JJ': 1, 'NN': 2}",100.24,2
+135,Fer v mere wrge insan lae bht wddi cheez aa,0,10,43,False,False,nl,ht,-95.6874,0,3,0,"{'NNP': 1, 'NN': 6, 'RB': 1, 'JJ': 2}",95.17,4
+136,Hmm keh sakdei,0,3,14,False,False,id,et,-17.509525,0,1,0,"{'NNP': 1, 'VBD': 1, 'NN': 1}",119.19,1.2
+137,Yesss,0,1,5,False,False,fi,en,9.06184,0,2,0,{'NN': 1},121.22,0.4
+138,Idrun free ho ke bna ke pejan ga app in shaa Allah,0,12,50,False,False,so,ms,-103.47878,1,4,0.5106,"{'NNP': 2, 'JJ': 1, 'NN': 8, 'IN': 1}",93.14,4.8
+139,Mere kol bania pia,0,4,18,False,False,id,pl,-16.931427,0,0,0,"{'NNP': 1, 'VBZ': 1, 'NN': 2}",92.8,1.6
+140,Pr tenu setting krni nai oni aeis lai app wich deploye kr ke pejan ga,0,15,69,False,False,id,cy,-140.17085,0,2,0,"{'NNP': 1, 'NN': 10, 'VBG': 1, 'JJ': 3}",90.09,6
+141,Wese kheriat nal aaya c???,0,5,26,False,False,id,tl,-41.002224,0,3,0,"{'JJ': 2, 'VBD': 1, 'NN': 2, '.': 3}",83.32,10
+142,Pta nii oo ki honda,0,5,19,False,False,et,ro,1.4794073,0,2,0,"{'NNP': 1, 'CC': 1, 'JJ': 1, 'NN': 2}",100.24,2
+143,Han g ami sundas ba g mariam da beta eisa dekhan mein bhai farukh kol,0,15,69,False,False,id,id,-153.68898,0,0,0,"{'NNP': 1, 'NN': 14}",90.09,6
+144,Fr chala gya,0,3,12,False,False,cy,fr,-9.955594,0,0,0,"{'NNP': 1, 'NN': 2}",93.81,1.2
+145,Sae sae,0,2,7,False,False,cy,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+146,3 din baaad aaaya fr dubaara bhai ne bula lia,0,10,45,True,False,so,tl,-95.6158,0,5,0,"{'CD': 1, 'JJ': 2, 'NN': 7}",103.63,4
+147,"Sundas no v lae oonda
+Shaed kl chutia ho Jaan",0,10,45,False,False,et,pt,-68.07775,1,2,-0.296,"{'NNP': 3, 'DT': 1, 'NN': 4, 'VBZ': 1, 'JJ': 1}",95.17,4
+148,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+149,Kiii,0,1,4,False,False,sw,en,9.06184,0,2,0,{'NNP': 1},36.62,0.4
+150,Huni keh ri si ke hod ne kia lecture hunwi,0,10,42,False,False,et,eo,-48.976795,0,0,-0.6369,"{'NNP': 1, 'VBD': 1, 'JJ': 2, 'NN': 6}",86.71,4
+151,Ooda Lec le k hi shaed kl off ho jave,0,10,37,False,False,en,xh,-69.62803,1,1,0,"{'NNP': 2, 'VBZ': 1, 'FW': 1, 'JJ': 1, 'NN': 3, 'VBD': 1, 'RP': 1}",103.63,4
+152,"Q k Monday Tuesday ooda Lec Honda
+Baaki teachers shaed mn jaan",0,12,62,False,False,so,la,-54.125034,0,3,0,"{'NNP': 6, 'NN': 3, 'MD': 1, 'NNS': 1, 'VBP': 1}",67.76,4.8
+153,Saade 65% hondi,0,3,15,True,False,nl,et,0.21184349,0,1,0,"{'VB': 1, 'CD': 1, 'NN': 2}",93.81,1.2
+154,Han me v aehi sooch rhi bs aeda lec ho jaave ak dfa,0,13,51,False,False,sk,cy,-100.12773,1,2,0,"{'NNP': 1, 'PRP': 1, 'VBP': 2, 'JJ': 1, 'NN': 7, 'VBN': 1}",92.12,5.2
+155,Shabashei,0,1,9,False,False,so,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+156,Fr wi tension,0,3,13,False,False,en,en,9.06184,0,0,-0.3182,"{'NNP': 1, 'NN': 2}",93.81,1.2
+157,Meri 95% hove meno ta v hondi,0,7,29,True,False,sk,sl,-17.95197,0,0,0,"{'NNP': 1, 'CD': 1, 'NN': 6}",106.67,2.8
+158,Kyun marks hundei edei,0,4,22,False,False,de,it,-29.834122,0,0,0,"{'NNP': 1, 'NNS': 1, 'VBD': 1, 'NN': 1}",92.8,1.6
+159,Nii lkn mental satisfaction,0,4,27,False,False,ro,ro,-5.3311224,0,1,0.4404,"{'NNP': 1, 'VBZ': 1, 'JJ': 1, 'NN': 1}",33.58,11.6
+160,Aaa wi sai aa,0,4,13,False,False,so,sw,-27.628555,0,2,0,"{'NNP': 1, 'NN': 3}",118.18,1.6
+161,Yess,0,1,4,False,False,fi,en,9.06184,0,1,0,{'NN': 1},121.22,0.4
+162,Allah menu wi eda da shiuk dawei,0,7,32,False,False,id,id,-27.203665,0,1,0,"{'NNP': 1, 'NN': 6}",106.67,2.8
+163,So ke lecture lai da,0,5,20,False,False,fr,fr,-38.342327,1,0,0,"{'RB': 1, 'JJ': 1, 'NN': 3}",100.24,2
+164,Hod wale Lec ch me v suti hi huni aa,0,10,36,False,False,sw,en,-78.24559,1,1,0,"{'NNP': 2, 'NN': 6, 'PRP': 1, 'IN': 1}",95.17,4
+165,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+166,Mein wazia 3 kursian laaa ke suttan hundan,0,8,42,True,False,sw,ms,-158.72084,0,3,0,"{'NNP': 1, 'VBD': 1, 'CD': 1, 'JJ': 1, 'NN': 4}",80.28,3.2
+167,Akar agei Beth ke wi,0,5,20,False,False,id,de,2.1633463,0,0,0,"{'NNP': 2, 'NN': 3}",117.16,2
+168,Teacher nii kush khnde???,0,4,25,False,False,de,en,-16.114725,0,3,0,"{'NNP': 1, 'CC': 1, 'VB': 1, 'NN': 1, '.': 3}",92.8,1.6
+169," 
+Nau",0,1,5,False,False,de,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+170,Bare ache waqia hoye aa,0,5,23,False,False,so,en,-59.144596,0,1,-0.3818,"{'NNP': 1, 'NN': 4}",117.16,2
+171,matlab,0,1,6,False,False,tl,en,9.06184,0,0,0,{'NN': 1},36.62,0.4
+172,Mtlb kush nii khnde aes lae,0,6,27,False,False,et,zu,-36.49533,0,1,0,"{'NNP': 1, 'NN': 5}",116.15,2.4
+173,bs menu nai kehendei aeis lai bachei wcharee,0,8,44,False,False,de,de,-134.54239,0,1,0,"{'NN': 7, 'JJ': 1}",80.28,8.2
+174,Ki mtlb,0,2,7,False,False,sw,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+175,Yaaani ALHAMDULILLAH protocol milda,0,4,35,False,False,et,et,-17.19556,0,3,0,"{'NNP': 2, 'NN': 2}",-8.73,21.6
+176,Pr number nai didnei,0,4,20,False,False,id,it,1.9902043,0,0,0.0772,"{'NNP': 1, 'NN': 3}",75.88,1.6
+177,Kinni CGPA,0,2,10,False,False,sw,en,9.06184,0,1,0,{'NNP': 2},35.61,0.8
+178,Wese me sunia it doesn't matter,0,6,31,False,False,af,en,-22.056812,3,1,-0.0191,"{'JJ': 1, 'PRP': 2, 'VB': 2, 'VBZ': 1, 'RB': 1}",73.85,2.4
+179,Bilkul,0,1,6,False,False,tr,id,-9.065241,0,0,0,{'NN': 1},121.22,0.4
+180,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+181,3.77 tu 3.49 2 position tu 5,0,7,28,True,False,fi,fi,-6.613381,0,1,0,"{'CD': 4, 'JJ': 1, 'NN': 2}",93.3,7.11
+182,Ksi teacher ne gussa kia,0,5,24,False,False,et,it,-47.910328,0,1,-0.6369,"{'NNP': 1, 'CC': 1, 'JJ': 1, 'NN': 2}",83.32,2
+183,Kdia,0,1,4,False,False,id,en,9.06184,0,0,0,{'NNP': 1},121.22,0.4
+184,Nai,0,1,3,False,False,vi,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+185,Fer,0,1,3,False,False,de,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+186,Mein O waaan jinnei dean te gussa kaddia,0,8,40,False,False,af,af,-128.32895,1,5,0,"{'NNP': 2, 'VBD': 1, 'JJ': 2, 'NN': 3}",80.28,3.2
+187,Aesi wja tu??,0,3,13,False,False,id,pl,0.63148403,0,1,0,"{'NNP': 1, 'NN': 2, '.': 2}",93.81,1.2
+188,Nai,0,1,3,False,False,vi,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+189,Mein class chei betha kehenda lab mein jao,0,8,42,False,False,de,de,-134.00734,0,1,0,"{'NNP': 1, 'NN': 7}",88.74,8.2
+190,Mein wo sunaoyan onei wi fr onei meri tasveer bna li,0,11,52,False,False,en,en,-153.70973,0,1,0,"{'NNP': 1, 'MD': 1, 'VB': 1, 'JJ': 1, 'NN': 7}",102.61,4.4
+191,Te chal gya,0,3,11,False,False,cy,en,2.1633797,0,0,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+192,Dsia c tu,0,3,9,False,False,ca,en,-10.161587,0,0,0,"{'NNP': 1, 'VBZ': 1, 'NN': 1}",119.19,1.2
+193,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+194,Hun maza onda,0,3,13,False,False,es,es,-13.060723,0,0,0,"{'NNP': 1, 'NN': 2}",93.81,1.2
+195,Je O kad dinda ,0,4,15,False,False,id,ms,-37.721306,1,0,0,"{'NNP': 2, 'VBD': 1, 'NN': 1}",92.8,1.6
+196,Fer tu Ksi hor uni ch ja ria honda,0,9,34,False,False,id,en,-37.636356,0,0,0,"{'NNP': 2, 'NN': 6, 'JJ': 1}",104.64,3.6
+197,N,0,1,1,False,False,vi,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
+198,Aaho,0,1,4,False,False,so,en,9.06184,0,0,0,{'NNP': 1},36.62,0.4
+199,Agei parhai nai kr sakda si fr,0,7,30,False,False,id,cy,-26.358667,0,0,0,"{'NNP': 1, 'NN': 6}",106.67,2.8
+200,"Koi naaaa
+Ithe canteen da bht scope aa uni ch",0,10,45,False,False,nl,nl,-108.202576,0,5,0,"{'NNP': 2, 'CC': 1, 'JJ': 2, 'NN': 4, 'IN': 1}",103.63,4
+201,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+202,Ona ne wi nai rakhna si,0,6,23,False,False,sw,xh,-17.73375,0,0,0,"{'NNP': 1, 'CC': 1, 'JJ': 2, 'NN': 2}",116.15,2.4
+203,"Nhi oo te rkh hi Len ge 
+Khushi Khushi km tnkhwa te",0,12,51,False,False,sw,zu,-111.35038,0,1,0,"{'NNP': 4, 'MD': 1, 'VB': 1, 'NN': 4, 'VBD': 1, 'JJ': 1}",110.06,4.8
+204,Ona ne sehat dekh ke ba kr deni si,0,9,34,False,False,id,ms,-103.180595,0,0,0,"{'NNP': 1, 'MD': 1, 'VB': 1, 'JJ': 1, 'NN': 5}",104.64,3.6
+205,Naaa aethe bht scope aa tu dukan la lae uni de agge,0,12,51,False,False,it,eo,-151.67213,0,4,0,"{'NNP': 1, 'NN': 5, 'IN': 1, 'JJ': 3, 'FW': 2}",110.06,4.8
+206,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+207,Sorry pul gia si,0,4,16,False,False,ro,en,3.4977899,0,1,-0.0772,"{'NNP': 1, 'NN': 3}",92.8,1.6
+208,Lg ria c pta,0,4,12,False,False,ca,ro,-8.319463,0,0,0,"{'NNP': 1, 'NN': 3}",118.18,1.6
+209,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+210,Chal sai aaa,0,3,12,False,False,id,et,-16.268772,0,2,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+211,Okkkkkkkkk,0,1,10,False,False,fi,en,9.06184,0,8,0,{'NN': 1},121.22,0.4
+212,"Assalam o alaikum
+Ki Haal aa",0,6,28,False,False,et,tl,-49.972317,1,3,0,"{'NNP': 3, 'MD': 1, 'VB': 1, 'NN': 1}",99.23,2.4
+213,Ws,0,1,2,False,False,pl,pl,-0.12797594,0,0,0,{'NN': 1},121.22,0.4
+214,Alhamdulillah,0,1,13,False,False,so,mt,-32.26457,0,1,0,{'NN': 1},-132.59,40.4
+215,Tu suna,0,2,7,False,False,id,it,-6.401533,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+216,Alhmdullilah,0,1,12,False,False,tr,et,-17.154526,0,1,0,{'NN': 1},-47.99,40.4
+217,Ki hua,0,2,6,False,False,sw,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+218,Ki?,0,1,3,False,False,sw,en,9.06184,0,0,0,"{'NNP': 1, '.': 1}",121.22,0.4
+219,Kheir si,0,2,8,False,False,de,en,-31.741447,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+220,Han taane milde bd cho aes lae,0,7,30,False,False,nl,af,-100.31753,0,1,0,"{'NNP': 1, 'NN': 6}",115.13,2.8
+221,Keis cheez dei,0,3,14,False,False,de,br,-65.30958,0,1,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+222,Wese hi,0,2,7,False,False,af,en,9.06184,0,0,0,"{'JJ': 1, 'NN': 1}",120.21,0.8
+223,Hor ki ho ria aj kl,0,6,19,False,False,sk,sk,-8.80968,0,0,0,"{'NNP': 1, 'VBD': 1, 'JJ': 1, 'NN': 3}",116.15,2.4
+224,Bs rest jia hi aik game bnaa rian aaaj kal,0,10,42,False,False,et,sw,-63.036366,0,3,0,"{'NNP': 1, 'NN': 7, 'JJ': 2}",103.63,4
+225,Saturday shaam nu aaa ya si,0,6,27,False,False,so,sw,-35.571987,0,3,0,"{'NNP': 1, 'VBD': 1, 'JJ': 2, 'NN': 2}",90.77,2.4
+226,Chitistian tu,0,2,13,False,False,en,fi,0.30673504,0,0,0,"{'JJ': 1, 'NN': 1}",35.61,20.8
+227,Tu suna ghar aaa gain?,0,5,22,False,False,id,qu,-49.30797,0,2,0.5267,"{'NNP': 1, 'NN': 4, '.': 1}",117.16,2
+228,Yess,0,1,4,False,False,fi,en,9.06184,0,1,0,{'NN': 1},121.22,0.4
+229,Shaam nu free,0,3,13,False,False,so,et,-10.589346,0,2,0.5106,"{'NNP': 1, 'MD': 1, 'VB': 1}",119.19,1.2
+230,Ki??,0,1,4,False,False,sw,en,9.06184,0,1,0,"{'NNP': 1, '.': 2}",121.22,0.4
+231,Yaaani raaat free huni ya masroof,0,6,33,False,False,so,id,-41.752373,0,6,0.5106,"{'NNP': 1, 'VBD': 1, 'JJ': 1, 'NN': 3}",90.77,2.4
+232,"Free huni 11 wje Soo jani aa
+Ghr aa k mbl km use krdi aa",0,15,56,True,False,so,et,-69.17428,0,6,0.5106,"{'JJ': 1, 'NN': 10, 'CD': 1, 'NNP': 3}",98.55,6
+233,Acha chal fr sai,0,4,16,False,False,en,sw,-37.284756,0,0,0,"{'NNP': 1, 'NN': 3}",118.18,1.6
+234,Yes,0,1,3,False,False,tr,en,9.06184,0,0,0.4019,{'UH': 1},121.22,0.4
+235,Shukria yaaad karn lai,0,4,22,False,False,so,id,-45.080704,0,2,0,"{'NNP': 1, 'PRP': 1, 'VBP': 1, 'JJ': 1}",118.18,1.6
+236,Raaat time horror movie dekh lai aaa,0,7,36,False,False,nl,nl,-76.34289,0,5,-0.5719,"{'JJ': 1, 'NN': 6}",106.67,2.8
+237,Kehri??,0,1,7,False,False,de,de,-5.490609,0,1,0,"{'NNP': 1, '.': 2}",121.22,0.4
+238,Bhool bhulaiya 2,0,3,16,True,False,so,ms,-8.206767,0,1,0,"{'NNP': 1, 'VBD': 1, 'CD': 1}",93.81,1.2
+239,Zyada horror aa??,0,3,17,False,False,so,et,-16.21378,0,3,-0.6199,"{'NNP': 1, 'NN': 2, '.': 2}",59.97,1.2
+240,Nak funny te horror aaa,0,5,23,False,False,nl,nl,-32.412544,0,4,-0.2023,"{'NNP': 1, 'JJ': 1, 'NN': 3}",83.32,2
+241,Yaaani acahank aa agia scene,0,5,28,False,False,so,nl,-26.02657,0,3,0,"{'NNP': 1, 'VBD': 1, 'JJ': 2, 'NN': 1}",83.32,10
+242,Fer te kher aa,0,4,14,False,False,af,nl,-22.731056,0,1,0,"{'NNP': 1, 'VBZ': 1, 'JJR': 1, 'NN': 1}",118.18,1.6
+243,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+244,iddan di game kheldin,0,4,21,False,False,so,id,-38.516174,0,1,0,"{'NN': 3, 'JJ': 1}",92.8,1.6
+245,Mzeed di aaa,0,3,12,False,False,so,it,-20.124376,0,3,0,"{'NNP': 1, 'VBZ': 1, 'NN': 1}",119.19,1.2
+246,Pejan,0,1,5,False,False,id,es,0.028903961,0,0,0,{'NN': 1},36.62,0.4
+247,Mein bnai,0,2,9,False,False,de,de,-2.9670296,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+248,Yess,0,1,4,False,False,fi,en,9.06184,0,1,0,{'NN': 1},121.22,0.4
+249,Nai halei,0,2,9,False,False,fi,et,-24.73693,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+250,"Taalian
+Achi aaa",0,3,16,False,False,so,et,-24.321674,0,3,0,"{'JJ': 1, 'NNP': 1, 'NN': 1}",119.19,1.2
+251,Play store tu karin,0,4,19,False,False,tl,en,2.4269342,0,0,0.34,"{'NNP': 1, 'NN': 3}",118.18,1.6
+252,Kes name te aa,0,4,14,False,False,af,nl,-4.187115,0,1,0,"{'NNP': 1, 'NN': 3}",118.18,1.6
+253,Haje hor working krni zara fr hassan nu salgirah gift de tor te send kar daon ga. Odi pic send laaa ke,0,22,102,False,False,id,id,-285.20993,0,3,0.4404,"{'NNP': 2, 'NN': 15, 'VBG': 1, 'JJ': 3, 'IN': 1}",94.15,6.22
+254,Haje thori working kr ke,0,5,24,False,False,af,en,-53.114674,0,0,0,"{'NNP': 1, 'VBD': 1, 'VBG': 1, 'NN': 2}",83.32,2
+255,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+256,Kinni der ch ho,0,4,15,False,False,de,it,-26.349155,0,1,0,"{'NNP': 1, 'NN': 3}",92.8,1.6
+257,In shaa Allah eid tu for an baad ya eid te,0,11,42,False,False,so,id,-125.76768,3,3,0,"{'IN': 2, 'JJ': 1, 'NNP': 1, 'NN': 6, 'DT': 1}",102.61,4.4
+258,Ki hua,0,2,6,False,False,sw,en,9.06184,0,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+259,Hun meno idda di game lbni peni,0,7,31,False,False,it,it,-102.34677,0,1,0,"{'NNP': 1, 'NN': 5, 'JJ': 1}",89.75,2.8
+260,Kyun ki hua,0,3,11,False,False,sw,fr,2.5340853,0,0,0,"{'NNP': 1, 'VBD': 1, 'NN': 1}",119.19,1.2
+261,Kheln no Dil kr ria,0,5,19,False,False,sl,es,-15.630681,1,0,-0.296,"{'NNP': 2, 'DT': 1, 'VBZ': 1, 'NNS': 1}",117.16,2
+262,Laptop te chal sakdi haje,0,5,25,False,False,et,it,-34.08041,0,0,0,"{'NNP': 1, 'NN': 4}",66.4,2
+263,Aese lae oodo tk koi hor idda di lb Leni aa,0,11,43,False,False,so,it,-85.82808,0,3,0,"{'JJ': 1, 'NN': 9, 'NNP': 1}",94.15,4.4
+264,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+265,Shaaam tak intezaar kr la,0,5,25,False,False,so,nl,-54.617428,0,3,0,"{'NNP': 1, 'NN': 4}",100.24,2
+266,Mein tenu send kar daon ga,0,6,26,False,False,id,nn,-50.723015,0,0,0,"{'NNP': 1, 'VBD': 1, 'JJ': 1, 'NN': 3}",116.15,2.4
+267,Nii koi nii jido complete ho jaye Ds dae,0,9,40,False,False,pt,pt,-106.785194,0,2,0,"{'NNP': 2, 'VBD': 1, 'JJ': 2, 'NN': 4}",96.18,3.6
+268,https://www.instagram.com/reel/CuCgLalNz8y/?igshid=MTc4MmM1YmI2Ng==,1,1,67,True,False,Unknown,en,-11.306591,0,6,0,"{'NN': 3, ':': 1, '.': 1}",-555.59,80.4
+269,Saee aa,0,2,7,False,False,so,nl,-6.145969,0,2,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+270,Not for you,0,3,11,False,False,en,en,3.676733,3,0,0,"{'RB': 1, 'IN': 1, 'PRP': 1}",119.19,1.2
+271,,0,0,0,False,False,Unknown,en,9.06184,0,0,0,{},206.84,0
+272,"Pta aa 
+Me saeee aa aese lae kia",0,8,32,False,False,et,et,-71.93099,1,4,-0.6369,"{'NNP': 2, 'VBD': 1, 'JJ': 2, 'NN': 3}",114.12,3.2
+273,It's for for but my heart lived person name hamna,0,10,49,False,False,en,en,-60.19119,5,0,0,"{'PRP': 1, 'VBZ': 1, 'IN': 2, 'CC': 1, 'PRP$': 1, 'NN': 4, 'VBD': 1}",95.17,4
+274,Ja ja tur ja,0,4,12,False,False,fi,lv,-9.9121475,0,0,0,"{'NNP': 1, 'NN': 3}",118.18,1.6
+275,Naaaal chalun gi,0,3,16,False,False,so,nl,-20.3746,0,3,0,"{'NNP': 1, 'NN': 2}",119.19,1.2
+276,"Meno drame psnd nii
+Drame aale dialogue bilkul v nhi 
+Seedha seedha khi kl Eid Mubarak",0,16,86,False,False,et,sw,-178.45187,0,4,0,"{'NNP': 5, 'NN': 9, 'JJ': 2}",80.62,8.9
+277,Same menu wi pasand nai,0,5,23,False,False,id,en,-7.7690773,1,0,0,"{'NNP': 2, 'NN': 3}",117.16,2
+278,Pr haaaan tu pasand aaan,0,5,24,False,False,id,nl,-53.98954,0,5,0,"{'NNP': 1, 'NN': 4}",117.16,2
+279,Meno v me bht psnd aa,0,6,21,False,False,nl,sl,-42.409683,1,1,0,"{'NNP': 1, 'FW': 1, 'PRP': 1, 'VBP': 1, 'JJ': 1, 'NN': 1}",116.15,2.4
+280,Ki cheez,0,2,8,False,False,sw,it,2.0258117,0,1,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+281,Me khud,0,2,7,False,False,vi,en,0.69629097,1,0,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+282,Ok OK sorry,0,3,11,False,False,no,en,9.06184,0,1,0.5904,"{'NNP': 2, 'NN': 1}",93.81,1.2
+283,Kes laae,0,2,8,False,False,et,et,-9.146299,0,1,0,"{'NNP': 1, 'NN': 1}",120.21,0.8
+284,Odanhi,0,1,6,False,False,vi,pt,-0.03277111,0,0,0,{'NN': 1},36.62,0.4
+285,Ach,0,1,3,False,False,en,en,9.06184,0,0,0,{'NN': 1},121.22,0.4
