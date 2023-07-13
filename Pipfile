@@ -18,9 +18,6 @@ seaborn = "*"
 plotly = "*"
 wordcloud = "*"
 beautifulsoup4 = "*"
-tabula-py = "*"
-pdfminer = "*"
-aspose-pdf = "*"
 
 [dev-packages]
 
