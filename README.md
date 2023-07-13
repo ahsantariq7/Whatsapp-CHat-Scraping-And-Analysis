@@ -1,1 +1,21 @@
 # Whatsapp-CHat-Scraping-And-Analysis
+
+- pipenv
+- JupyterNotebook 
+- Selenium 
+- Pandas 
+- Matplotlib 
+- Seaborn 
+- Feature Engineering 
+- langdetect 
+- py3langid 
+- nltk 
+- SentimentIntensityAnalyzer
+-  punkt 
+- averaged_perceptron_tagger 
+- textstat 
+- scikit-learn 
+- CountVectorizer 
+- TfidfVectorizer 
+- cosine_similarity 
+- WordCloud
